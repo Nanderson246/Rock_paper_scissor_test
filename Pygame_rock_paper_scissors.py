@@ -3,7 +3,7 @@
 """
 Created on Tue Jan  7 13:01:01 2025
 
-@author: nancy
+@author: N. Anderson
 """
 
 import random
