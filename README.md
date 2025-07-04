@@ -1,6 +1,6 @@
 ## Rock_paper_scissor_test
 
-A simple Rock-Paper-Scissors game built using Pygame. 
+A simple Rock-Paper-Scissors game built using Pygame to test Github package uplaoding system.
 
 ## Features
 - Play against the computer
